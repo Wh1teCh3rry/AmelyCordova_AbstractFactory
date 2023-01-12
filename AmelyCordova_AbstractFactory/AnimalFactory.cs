@@ -16,7 +16,7 @@ namespace AmelyCordova_AbstractFactory
     }
 
     //La interfaz IAnimals tiene un método llamado Speak,
-    //que es implementado por las clases de animales: Dog, Cat, Lion y Elephant
+    //que es implementado por las clases de animales: Dog, Cat, Lion
     interface IAnimals
     {
         void Speak();
